@@ -1,4 +1,6 @@
 ## Hi there 👋
+# About Myself
+Hello, I'm Krish Gupta! 
 
 <!--
 **skrish-g/skrish-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
