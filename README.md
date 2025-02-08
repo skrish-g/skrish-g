@@ -1,5 +1,5 @@
-<div style="font-family: brush script mt;">
 # 🌟 Welcome to My Coding Journey! 🚀
+
 ## I'm **Krish Gupta** 🌐
 ### **Competitive Programmer | Tech Explorer | Web Developer**
 <!--
@@ -11,4 +11,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
