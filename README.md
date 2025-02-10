@@ -76,7 +76,7 @@ Outside of coding, in my free time, you'll find me exploring tech innovations or
 | 🔥 Activity | 📊 Stats |
 |------------|---------|
 | 🌍 My Coding Universe 🚀💡 | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skrish-g&langs_count=100&theme=tokyonight)](https://github.com/skrish-g) |
-| 💻 Consistency is Power! ⏳⌨️ | ![GitHub Streak](https://streak-stats.demolab.com?user=skrish-g&theme=highcontrast&border=00FF00&background=000000) |
+| 💻 Consistency is Power! ⏳⌨️ | ![GitHub Streak](https://streak-stats.demolab.com?user=skrish-g) |
 | ✅ Total Commits 🚀📂 | ![Total Commits](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skrish-g&theme=tokyonight) |
 | ⚡ Contribution Activity 📅💻  | [![Krish Gupta's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skrish-g&theme=react-dark&bg_color=000000&hide_border=true&line=39FF14&color=FFFFFF&point=FF1493)](https://github.com/skrish-g)
 
